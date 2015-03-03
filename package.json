@@ -1,0 +1,24 @@
+{
+  "name": "profx",
+  "version": "0.0.1",
+  "description": "Mutation Testing Library for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mutation",
+    "js",
+    "javascript",
+    "testing"
+  ],
+  "author": "Richard van der Dys (http://richardvanderdys.com)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "esprima": "^2.0.0",
+    "fs-extra": "^0.16.3",
+    "lodash": "^3.3.1",
+    "should": "^5.0.1"
+  }
+}
