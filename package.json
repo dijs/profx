@@ -12,6 +12,10 @@
     "javascript",
     "testing"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dijs/profx"
+  },
   "author": "Richard van der Dys (http://richardvanderdys.com)",
   "license": "MIT",
   "dependencies": {
