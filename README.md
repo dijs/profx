@@ -1,11 +1,12 @@
 # ProfX
-- A Mutant Testing Tool for Javascript
+A Mutant Testing Tool for Javascript
 
 ### How to use
 
 Currently, profx needs to be built into a build system. Plugins can be easily created to run the tool. The inputs are simply the source file and the test file for that source. Works best with source code that is already split into easily testable components.
 
-**Do not use in production systems**
+**Do not use in production systems.**
+
 **Use with version controlled projects only!**
 
 #### Installation
